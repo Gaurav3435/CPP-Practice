@@ -62,7 +62,7 @@ int main()
     int a=s.sum_of_real(num1,num2);
     int b=s.sum_of_img(num1,num2);
     cout<<"The sum of real part is: "<<a<<endl;
-    cout<<"The sum of real part is: "<<b<<endl;
+    cout<<"The sum of imaginary part is: "<<b<<endl;
     return 0;
 }
 
