@@ -37,7 +37,7 @@ int main()
     float slope,length;
     pt1.set_data(2,4);
     pt1.display();
-    pt2.set_data(5,5);
+    pt2.set_data(4,5);
     pt2.display();
     slope=pt1.slope_of_line(pt2);
     length=pt1.length_of_line(pt2);
